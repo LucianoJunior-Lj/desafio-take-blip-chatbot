@@ -1,0 +1,23 @@
+{
+  "name": "desafio-take-blip-chatbot",
+  "version": "1.0.0",
+  "description": "Api para busca de projetos da take blip",
+  "main": "./challenge/Api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianoJunior-Lj/desafio-take-blip-chatbot.git"
+  },
+  "author": "Luciano Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucianoJunior-Lj/desafio-take-blip-chatbot/issues"
+  },
+  "homepage": "https://github.com/LucianoJunior-Lj/desafio-take-blip-chatbot#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
