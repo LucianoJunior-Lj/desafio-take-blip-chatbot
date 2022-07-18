@@ -9,4 +9,4 @@ const requestData = async (endpoint) => {
   return data;
 }
 
-module.exports = requestData;
+module.exports = { requestData };
