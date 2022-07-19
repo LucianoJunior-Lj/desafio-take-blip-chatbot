@@ -1,0 +1,7 @@
+node_modules/
+/challenge/Api/tests/
+.env
+.git
+heroku.yml
+README.md
+.eslint*
